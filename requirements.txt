@@ -1,0 +1,6 @@
+django-redis
+django 
+djangorestframework
+django-cors-header
+psql2
+
